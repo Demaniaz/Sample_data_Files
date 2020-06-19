@@ -1,2 +1,4 @@
 # Sample_data_Pentaho
-Sampe data for training Pentaho
+Sample data for training Pentaho
+
+This sample data is dummy
